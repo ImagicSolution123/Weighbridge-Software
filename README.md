@@ -1,9 +1,10 @@
 # Weighbridge-Software
 Weighbridge-Software
 
-============== Dear All Weighbridge User ====================
+============== Dear All Weighbridge User	=======
 
-============== About Company ====================
+============== About Company 			===================
+
 Imagic Solution Provide Total Weighbidge Software & Automation Solution like 
 Weighbridge Software, Weighing Software, Unmanned Weighbridge System, Weighbridge Automation Work, 
 Payroll software, Time attendance software, Complaint Management Software, Inquiry management software, 
