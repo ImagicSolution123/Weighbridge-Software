@@ -4,13 +4,18 @@ Weighbridge-Software
 
 ## About Company
 
-Imagic Solution Provide Total Weighbidge Software & Automation Solution like 
-Weighbridge Software, Weighing Software, Unmanned Weighbridge System, Weighbridge Automation Work, 
-Payroll software, Time attendance software, Complaint Management Software, Inquiry management software, 
-Online Exam system, Access Control Software (Door lock security with RFID Card), Door Security Software, 
-Bulk EMAIL sender module (for marketing management), SMS sender module (auto send SMS with GSM model), 
-BIO metric / finger print machine with payroll, Online exam software, Store/were house management, 
-Inventory management system, Quotation management system, total weighbridge software solution. 
+Imagic Solution Provide Weighbidge Software & Automation Solution like 
+Weighbridge Software, Online Weighbridge Software, Unmanned Weighbridge System, Weighbridge Automation, 
+Weighbridge Software For Any Make Weighbridge,  Web Based Weighbridge Software, its Include Various Facility Like CCTV Camera 
+Integration, Auto Email Alert With Attached Ticket PDF and Vehicle Image, SMS Alert on Customer Mobile number, WhatsApp Message On 
+Customer Mobile Number, Once Click Report Generation From Software As per Customer Need, Automatically Capture Vehicle Image and 
+Generate None Editable PDF and Send Email to Customer, Software is Suitable For Public Weighbridge As Well As Industrial Weighbridge, 
+Facility To Setup Pre-Printed Weighbridge Ticket format at Client Site, Manual Weight Option in Weighbridge software, 
+Weighbridge Software Demo Provide Free Of Cost On Client Computer, 
+Weighbridge Software Easily Integrate With SAP,Oracle,PostgreySQL, ERP, MySQL, ERP SQL, Oracle Fusion, Navision, Any API, 
+Weighbridge Software Integrate With RFID Reader, Boom Barrier, CCTV Camera, Vehicle Positioning Sensor, Traffic Light, PA Sound Alert, 
+Scrolling LED Display, Smart RFID Card, Vehicle Windshield RFID TAG, iot Unmanned Weighing Controller etc.
+ 
 
 Bellow is Oursolution for Weighbridge
 - Weighbridge Software
@@ -35,8 +40,11 @@ Bellow is Oursolution for Weighbridge
 ### Imagic Solution Provide Weighbridge Software :
 * contact us on : vijay.comp@gmail.com   
 * visit:- [www.imagicsolution.com](https://www.imagicsolution.com)
+* This Software work 11500 Client on All over world, we provide this software from Dubai, Kenya, Uganda, Tanzania, Mozambiquee And All India State.
+
 ```
-This Software work 11500 Client on All over world, we provide this software from Dubai, Kenya, Uganda, Tanzania, Mozambiquee And All India State.
+ Weighbridge Software Integrate With SAP, Oracle, PostgreySQL, ERP, MySQL, MsSQL, Text File, CSV, 
+ Oracle Fusion, Navision Or Thirs Party API.
 ```
 
 ## Pc & Other Requirement
@@ -65,7 +73,7 @@ This Software work 11500 Client on All over world, we provide this software from
 * Set Client Company Name In Ticket Print - "System Setting" -> "Company Setting" -> Change Demo Company To You Company Name.
 
 
-### Field Setting
+### Field Setting [User Setable Field Setup]
 * We can set Ticket Field As per Weighbridge Ticket Require, we Provide Up 11 Field Which can set as per clisnt Require
 * For Setting Field Click on -> "Field Setting"   -> Change "Field Text" Column For Exa. Party Name = Customer_Name / Item_Name = Procudt_Name
 
